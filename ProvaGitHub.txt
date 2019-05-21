@@ -1,0 +1,1 @@
+Hola aquest es el document de prova que fare servir per veure el funcionament del Git Hub
